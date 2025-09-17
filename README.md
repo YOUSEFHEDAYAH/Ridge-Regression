@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 A minimal **Ridge Regression** pipeline (Jupyter Notebook) to predict student performance based on the assignment brief.
 
